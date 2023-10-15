@@ -1,0 +1,1 @@
+# nix-qemu-vm-template
